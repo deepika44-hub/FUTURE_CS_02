@@ -1,0 +1,29 @@
+Sample 1 (Phishing)
+
+From: security@paypaI.com
+Subject: Account Suspended
+
+Dear User,
+
+Your account has been suspended.
+Click here immediately to verify:
+
+http://paypal-security-login.com
+
+Failure to verify within 24 hours will result in account deletion.
+
+
+Sample 2 (Suspicious)
+
+From: support@amazon-offers.net
+Subject: Claim Your Free Gift
+
+Click the link below to claim your reward.
+
+
+Sample 3 (Safe)
+
+From: hr@company.com
+Subject: Team Meeting
+
+There will be a team meeting at 3 PM tomorrow.
